@@ -1,3 +1,9 @@
+## @fumadocs/cli@1.7.6
+
+### Search sync on Vercel
+
+- The Next.js sync script of `feature search` finds `static.json` when Next.js builds with an adapter, like on Vercel.
+
 ## @fumadocs/cli@1.7.5
 
 ### OG images in every template
